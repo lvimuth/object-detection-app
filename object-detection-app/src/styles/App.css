@@ -1,0 +1,21 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .home {
+    padding: 20px;
+  }
+  
+  .file-upload input[type="file"] {
+    margin-right: 10px;
+  }
+  
+  .detection-results {
+    margin-top: 20px;
+  }
+  
+  .detection-results p {
+    margin: 5px 0;
+  }
+  
